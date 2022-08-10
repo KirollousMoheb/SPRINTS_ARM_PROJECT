@@ -48,7 +48,6 @@ typedef enum
 	PORTF = 5
 } Port_PortType;
 
-/* Flag to know if i want to use this timer of not */
 typedef enum
 {
 	CHANNEL_DISABLED = 0,
@@ -57,21 +56,20 @@ typedef enum
 
 typedef enum
 {
-	INPUT  = 0,		// Default
+	INPUT  = 0,	
 	OUTPUT = 1
 } Port_PinDirectionType;
 
-/* TODO: Add the other modes */
 typedef enum
 {
-	DIO_MODE = 0,	// Default
+	DIO_MODE = 0,	
 	ICU_MODE = 1,
 	ADC_MODE = 2
 } Port_PinModeType;
 
 typedef enum
 {
-	PULL_UP = 0,	// Default
+	PULL_UP = 0,	
 	PULL_DOWN = 1,
 	OPEN_DRAIN = 2,
 	SLEW_RATE = 3
@@ -79,7 +77,7 @@ typedef enum
 
 typedef enum
 {
-	DRIVE_2mA = 0,	// Default
+	DRIVE_2mA = 0,	
 	DRIVE_4mA = 1,
 	DRIVE_8mA = 2
 } Port_PinOutputCurrentType;
