@@ -1,0 +1,16 @@
+.\objects\led.o: HAL\Led.c
+.\objects\led.o: .\Common\Std_Types.h
+.\objects\led.o: .\Common\Platform_Types.h
+.\objects\led.o: .\HAL\Inc\Led.h
+.\objects\led.o: .\Mcal\Inc\Dio.h
+.\objects\led.o: .\Config\Inc\Dio_Cfg.h
+.\objects\led.o: .\Mcal\Inc\Dio_Types.h
+.\objects\led.o: .\Mcal\Inc\Port_Types.h
+.\objects\led.o: .\HAL\Inc\Led.h
+.\objects\led.o: .\Mcal\Inc\Gpt.h
+.\objects\led.o: .\Mcal\Inc\Gpt_Types.h
+.\objects\led.o: .\Mcal\Inc\IntCtrl_Types.h
+.\objects\led.o: .\Config\Inc\Gpt_Cfg.h
+.\objects\led.o: .\Common\Macros.h
+.\objects\led.o: .\Mcal\Inc\Port.h
+.\objects\led.o: .\Config\Inc\Port_Cfg.h

@@ -1,0 +1,12 @@
+.\objects\gpt.o: Mcal\Gpt.c
+.\objects\gpt.o: .\Common\Std_Types.h
+.\objects\gpt.o: .\Common\Platform_Types.h
+.\objects\gpt.o: .\Mcal\Inc\IntCtrl.h
+.\objects\gpt.o: .\Config\Inc\IntCtrl_Cfg.h
+.\objects\gpt.o: .\Mcal\Inc\IntCtrl_Types.h
+.\objects\gpt.o: .\Common\Mcu_Hw.h
+.\objects\gpt.o: .\Mcal\Inc\Gpt.h
+.\objects\gpt.o: .\Mcal\Inc\Gpt_Types.h
+.\objects\gpt.o: .\Config\Inc\Gpt_Cfg.h
+.\objects\gpt.o: .\Mcal\Inc\Gpt_regs.h
+.\objects\gpt.o: .\Common\Macros.h

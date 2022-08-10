@@ -1,0 +1,13 @@
+.\objects\gpt_lcfg.o: Config\Gpt_Lcfg.c
+.\objects\gpt_lcfg.o: .\Common\Std_Types.h
+.\objects\gpt_lcfg.o: .\Common\Platform_Types.h
+.\objects\gpt_lcfg.o: .\Mcal\Inc\Gpt_Types.h
+.\objects\gpt_lcfg.o: .\Mcal\Inc\IntCtrl_Types.h
+.\objects\gpt_lcfg.o: .\Mcal\Inc\Gpt_regs.h
+.\objects\gpt_lcfg.o: .\Mcal\Inc\Gpt.h
+.\objects\gpt_lcfg.o: .\Config\Inc\Gpt_Cfg.h
+.\objects\gpt_lcfg.o: .\Mcal\Inc\Dio.h
+.\objects\gpt_lcfg.o: .\Config\Inc\Dio_Cfg.h
+.\objects\gpt_lcfg.o: .\Mcal\Inc\Dio_Types.h
+.\objects\gpt_lcfg.o: .\Mcal\Inc\Port_Types.h
+.\objects\gpt_lcfg.o: .\Common\Macros.h

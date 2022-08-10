@@ -1,0 +1,14 @@
+.\objects\main.o: Appl\main.c
+.\objects\main.o: .\Common\Std_Types.h
+.\objects\main.o: .\Common\Platform_Types.h
+.\objects\main.o: .\HAL\Inc\Led.h
+.\objects\main.o: .\Mcal\Inc\Dio.h
+.\objects\main.o: .\Config\Inc\Dio_Cfg.h
+.\objects\main.o: .\Mcal\Inc\Dio_Types.h
+.\objects\main.o: .\Mcal\Inc\Port_Types.h
+.\objects\main.o: .\HAL\Inc\Led.h
+.\objects\main.o: .\Mcal\Inc\Gpt.h
+.\objects\main.o: .\Mcal\Inc\Gpt_Types.h
+.\objects\main.o: .\Mcal\Inc\IntCtrl_Types.h
+.\objects\main.o: .\Config\Inc\Gpt_Cfg.h
+.\objects\main.o: .\Common\Macros.h

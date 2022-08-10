@@ -1,0 +1,11 @@
+.\objects\button.o: HAL\Button.c
+.\objects\button.o: .\Common\Std_Types.h
+.\objects\button.o: .\Common\Platform_Types.h
+.\objects\button.o: .\Common\Compiler.h
+.\objects\button.o: .\HAL\Inc\Button.h
+.\objects\button.o: .\Mcal\Inc\Port.h
+.\objects\button.o: .\Mcal\Inc\Port_Types.h
+.\objects\button.o: .\Config\Inc\Port_Cfg.h
+.\objects\button.o: .\Mcal\Inc\Dio.h
+.\objects\button.o: .\Config\Inc\Dio_Cfg.h
+.\objects\button.o: .\Mcal\Inc\Dio_Types.h
